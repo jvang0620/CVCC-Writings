@@ -1,4 +1,4 @@
-# ReadMe for Civil Disobedience Paper
+# Civil Disobedience and Law Enforcement
 
 This repository contains an academic paper titled "Civil Disobedience and Law Enforcement: Balancing Rights and Public Safety" written by Jai Vang for the POL-12-800 American Government course at Catawba Valley Community College under the instruction of Professor Glenn Roseman. The paper, completed on May 10, 2021, explores the concept of civil disobedience in the United States, its historical significance, and its contemporary implications, particularly in the context of law enforcement responses to protests.
 

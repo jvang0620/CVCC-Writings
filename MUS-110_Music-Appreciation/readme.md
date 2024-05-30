@@ -1,4 +1,4 @@
-# ReadMe for Music Appreciation Papers, Projects, and Presentations
+# Music Appreciation Collection: In-Depth Papers and Projects
 
 This repository contains a collection of academic papers, projects, and presentations for the Music Appreciation course (MUS 110-801) at Catawba Valley Community College, under the guidance of Professor Pauley. Each work explores various aspects of classical music, providing in-depth analyses, historical contexts, and personal reflections. Below is a summary of each item included in this repository.
 

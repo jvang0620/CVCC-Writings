@@ -1,4 +1,4 @@
-# README for Historical Analysis Papers
+# Historical Analysis Papers
 
 This README provides an overview of three historical analysis papers: "Adapting to Change," "Exploring America's Social Reforms," and "Mark Twain's Votes for Women." Each paper explores significant historical themes and events through detailed analysis and scholarly research.
 

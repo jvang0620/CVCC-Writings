@@ -1,4 +1,4 @@
-# README for Course Materials on World Religions
+# Exploring World Religions: Essays and Reflections
 
 ### Overview
 

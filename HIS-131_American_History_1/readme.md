@@ -1,4 +1,4 @@
-# ReadMe for Exploring American History Papers
+# Exploring American History Papers
 
 Welcome to the repository containing an insightful collection of papers focused on significant themes and events in American history. This README provides an overview of each paper and highlights their key contributions to understanding and interpreting pivotal moments and movements in early America.
 

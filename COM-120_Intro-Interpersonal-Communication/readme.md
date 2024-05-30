@@ -1,4 +1,4 @@
-# ReadMe for Communication Skills Papers
+# Enhancing Communication Skills: A Collection of Insightful Papers
 
 Welcome to the repository containing my collection of papers focused on developing effective communication skills. This ReadMe provides an overview of each paper and highlights their key contributions to understanding and enhancing interpersonal communication.
 
